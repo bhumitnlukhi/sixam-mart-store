@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "535974651943",
+    "project_id": "axom-mart-f05f1",
+    "storage_bucket": "axom-mart-f05f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535974651943:android:e477da4f398862ccf90602",
+        "android_client_info": {
+          "package_name": "com.axommart.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535974651943-ctdg2vt06op17ekevv1jqvidm20ok1c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.axommart.deliveryapp",
+            "certificate_hash": "8f72aa10bc6ea68ef749b2e489ae860b1cb943b3"
+          }
+        },
+        {
+          "client_id": "535974651943-ce2q88038o6h65fv16126ijt76q5o357.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rLm4ChlHT0L2z_HXoX94bhnAbP5SNlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535974651943-ce2q88038o6h65fv16126ijt76q5o357.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535974651943:android:564bf6bb3ff3f536f90602",
+        "android_client_info": {
+          "package_name": "com.axommart.storeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535974651943-306vn57i77g2ika6mm3ombmma62r000s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.axommart.storeapp",
+            "certificate_hash": "8f72aa10bc6ea68ef749b2e489ae860b1cb943b3"
+          }
+        },
+        {
+          "client_id": "535974651943-ce2q88038o6h65fv16126ijt76q5o357.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rLm4ChlHT0L2z_HXoX94bhnAbP5SNlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535974651943-ce2q88038o6h65fv16126ijt76q5o357.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535974651943:android:682612cae7e21ea2f90602",
+        "android_client_info": {
+          "package_name": "com.axommart.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535974651943-lfn8mmn037rovspnef4ml9dli9pilud7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.axommart.user",
+            "certificate_hash": "8f72aa10bc6ea68ef749b2e489ae860b1cb943b3"
+          }
+        },
+        {
+          "client_id": "535974651943-ce2q88038o6h65fv16126ijt76q5o357.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rLm4ChlHT0L2z_HXoX94bhnAbP5SNlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535974651943-ce2q88038o6h65fv16126ijt76q5o357.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
