@@ -27,7 +27,7 @@
         </queries>
 
         <application
-            android:label="Axommart Store"
+            android:label="Easymeds Store"
             android:name="${applicationName}"
             android:requestLegacyExternalStorage="true"
             android:usesCleartextTraffic="true"
