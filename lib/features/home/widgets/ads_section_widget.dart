@@ -78,9 +78,9 @@ class AdsSectionWidget extends StatelessWidget {
           ),
         ),
 
-        const Positioned(
+         const Positioned(
           top: 30, right: 15,
-          child:  CustomAssetImageWidget(Images.adsImage, height: 85, width: 98),
+          child:  CustomAssetImageWidget(Images.adsSuccess, height: 85, width: 98),
         ),
 
       ],
